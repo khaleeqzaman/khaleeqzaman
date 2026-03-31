@@ -75,7 +75,7 @@ I'm the **Founder & CEO of [Cyber Sleek I.T Solutions](http://cybersleek.com)**,
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Visit_My_Website-cybersleek.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](http://cybersleek.com)
-[![Twitter DM](https://img.shields.io/badge/DM_on_Twitter-@khaleeqzaman86-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khaleeqzaman86)
+[![Email](https://img.shields.io/badge/Email-web.engineer@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:web.engineer@hotmail.com)
 
 </div>
 
